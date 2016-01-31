@@ -1,4 +1,4 @@
-package problem;
+package Problems;
 
 import java.util.ArrayList;
 import java.util.Iterator;
